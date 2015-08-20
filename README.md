@@ -10,3 +10,6 @@ font path on Windows using *windows Script Host*.
 [Windows_font-path.bas](https://github.com/ReneNyffenegger/Fonts/blob/master/Windows_font-path.bas): same thing
 as above, but using [runVBAFilesInOffice.bas](https://github.com/ReneNyffenegger/runVBAFilesInOffice).
 
+## Links
+
+[Graphic, Design and Font](https://github.com/ReneNyffenegger/Graphic-Design-and-Font).
